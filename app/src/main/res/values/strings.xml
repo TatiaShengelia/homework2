@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">homework2</string>
+    <string name="description">შეიყვანე რიცხვი 1-დან 1000-ის ჩათვლით და გაიგე მისი ქართული შესატყვისი</string>
+    <string name="input">ჩაწერე რიცხვი აქ</string>
+    <string name="button">დააჭირე შედეგის სანახავად</string>
+    <string name="numInput">რიცხვი</string>
+</resources>
